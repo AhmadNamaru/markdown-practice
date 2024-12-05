@@ -62,5 +62,5 @@ I Love `ArewaDS`
 
 # Tables
 
-| Name         | Role          | Department       |
-|--------------|---------------|------------------|
+| First Name         | Surname          | Middle Name       |
+|--------------------|------------------|-------------------|
