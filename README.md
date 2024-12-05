@@ -10,11 +10,13 @@ This Repo is for my Markdown Paractice with ArewaDS
 # Bold
 
 **AhmadNamaru**
+
 __Bolded__
 
 # Italicized
 
 *AhmadNamaru*
+
 _AnotherOne_
 
 # Unordered List
