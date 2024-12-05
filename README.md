@@ -56,3 +56,5 @@ Ordered Lists: Ordered lists are created using numbers:
 ```python
 Print(Hello World!)
 ```
+Inline Higlighting
+I Love `ArewaDS`
