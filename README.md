@@ -64,3 +64,5 @@ I Love `ArewaDS`
 
 | First Name         | Surname          | Middle Name       |
 |--------------------|------------------|-------------------|
+| Ahmad              | Dahiru           | Namaru            |
+| Usman              | Salisu           | Alkali            |
