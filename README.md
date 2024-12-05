@@ -50,7 +50,7 @@ Ordered Lists: Ordered lists are created using numbers:
 [My Markdown Practice](https://github.com/AhmadNamaru/markdown-practice/)
 
 # Images
-![Image](C:\Users\User\PHONE A3OS\image)
+![Image](C:\Users\User\PHONE A3OS\image\20240306_070715.jpg)
 
 # Code and Syntax Highlighting
 ```python
