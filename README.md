@@ -51,3 +51,8 @@ Ordered Lists: Ordered lists are created using numbers:
 
 # Images
 ![Image](C:\Users\User\PHONE A3OS\image)
+
+# Code and Syntax Highlighting
+```python
+Print(Hello World!)
+```
