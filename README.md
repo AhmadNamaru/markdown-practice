@@ -66,3 +66,11 @@ I Love `ArewaDS`
 |--------------------|------------------|-------------------|
 | Ahmad              | Dahiru           | Namaru            |
 | Usman              | Salisu           | Alkali            |
+
+# Task Lists
+- [x] Day 1
+- [ ] Day 2
+- [ ] Day 3
+
+# Horizontal Ruler
+***
