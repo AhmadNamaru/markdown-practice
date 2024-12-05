@@ -17,3 +17,15 @@ __Bolded__
 *AhmadNamaru*
 _AnotherOne_
 
+# Unordered List
+- Number 1
+- Number 2
+- Number 3
+
+* Number 1
+* Number 2
+* Number 3
+
++ Number 1
++ Number 2
++ Number 3
