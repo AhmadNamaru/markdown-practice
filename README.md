@@ -34,3 +34,12 @@ _AnotherOne_
 + Number 1
 + Number 2
 + Number 3
+
+# Ordered List
+Ordered Lists: Ordered lists are created using numbers:
+
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
