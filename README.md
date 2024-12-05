@@ -11,3 +11,8 @@ This Repo is for my Markdown Paractice with ArewaDS
 
 **AhmadNamaru**
 Not Bolded
+
+# Italicized
+
+*AhmadNamaru*
+_AnotherOne_
