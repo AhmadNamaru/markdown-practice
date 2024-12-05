@@ -74,3 +74,10 @@ I Love `ArewaDS`
 
 # Horizontal Ruler
 ***
+---
+___
+
+# Blockquotes
+> Markdown is a writer's best friend.
+> Markdown is nice
+> Markdown is easy
