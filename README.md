@@ -48,3 +48,6 @@ Ordered Lists: Ordered lists are created using numbers:
 
 # Links
 [My Markdown Practice](https://github.com/AhmadNamaru/markdown-practice/)
+
+# Images
+![Image](C:\Users\User\PHONE A3OS\image)
