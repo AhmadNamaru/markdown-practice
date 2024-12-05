@@ -59,3 +59,7 @@ Print(Hello World!)
 Inline Higlighting
 
 I Love `ArewaDS`
+
+# Tables
+
+| Name         | Role          | Department       |
